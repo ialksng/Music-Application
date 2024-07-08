@@ -1,2 +1,2 @@
-# Music-Player-Website
-This is a music player website
+# Music-Application
+This is a music application
